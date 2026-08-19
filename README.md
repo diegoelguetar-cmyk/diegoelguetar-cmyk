@@ -20,7 +20,7 @@ Me alegra que puedan encontrar esta pequeña presentación de mi persona. Me lla
     <a href="mailto:[diego.elgueta.r@ug.uchile.cl]">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="[https://drive.google.com/file/d/1WqvKN96GOH7ByeL_eekRao-pNsIiJ5Zg/view?usp=sharing]">
+    <a href="https://drive.google.com/file/d/1WqvKN96GOH7ByeL_eekRao-pNsIiJ5Zg/view?usp=sharing">
         <img src="https://img.shields.io/badge/CV-E6AA68"/>
     </a>
 </p>
